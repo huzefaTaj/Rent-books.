@@ -62,6 +62,11 @@ Make sure you have the following installed on your system:
 Open your web browser and go to `http://127.0.0.1:8000/` to see your Django application in action.
 
 ### Admin Panel
+Default Credential
+ ```bash
+   Usename: admin
+   Password: 123
+   ``` 
 
 To access the Django admin panel, navigate to `http://127.0.0.1:8000/admin/` and log in with the superuser credentials you created.
 
